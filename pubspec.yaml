@@ -1,0 +1,177 @@
+name: timber
+description: A new Flutter project.
+
+# The following defines the version and build number for your application.
+# A version number is three numbers separated by dots, like 1.2.43
+# followed by an optional build number separated by a +.
+# Both the version and the builder number may be overridden in flutter
+# build by specifying --build-name and --build-number, respectively.
+# In Android, build-name is used as versionName while build-number used as versionCode.
+# Read more about Android versioning at https://developer.android.com/studio/publish/versioning
+# In iOS, build-name is used as CFBundleShortVersionString while build-number used as CFBundleVersion.
+# Read more about iOS versioning at
+# https://developer.apple.com/library/archive/documentation/General/Reference/InfoPlistKeyReference/Articles/CoreFoundationKeys.html
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.1.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  carousel_pro: ^1.0.0
+
+  # The following adds the Cupertino Icons font to your application.
+  # Use with the CupertinoIcons class for iOS style icons.
+  cupertino_icons: ^0.1.2
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+
+# For information on the generic Dart part of this file, see the
+# following page: https://dart.dev/tools/pub/pubspec
+
+# The following section is specific to Flutter.
+flutter:
+
+  # The following line ensures that the Material Icons font is
+  # included with your application, so that you can use the icons in
+  # the material Icons class.
+  uses-material-design: true
+
+  # To add assets to your application, add an assets section, like this:
+  assets:
+    - assests/door1.jpeg
+    - assests/door2.jpg
+    - assests/white.png
+    - assests/rsz_1bannerbg.png
+    - assests/fb_logo.jpg
+    - assests/gmail.jpg
+    - assests/facebook.png
+    - assests/gmail.png
+    - assests/fb.png
+    - assests/bed.png
+    - assests/door.png
+    - assests/sofa.png
+    - assests/chair.png
+    - assests/table.png
+    - assests/window.png
+    - assests/chair1.png
+    - assests/bed1.png
+    - assests/sofa1.png
+    - assests/table1.png
+    - assests/doorback.png
+    - assests/01.jpg
+    - assests/02.jpg
+    - assests/04.jpg
+    - assests/03.webp
+    - assests/user2.png
+    - assests/d1.jpg
+    - assests/d2.jpg
+    - assests/d3.jpg
+    - assests/d4.jpg
+    - assests/d5.jpg
+    - assests/d6.jpg
+    - assests/d7.jpg
+    - assests/d8.jpg
+    - assests/d9.jpg
+    - assests/s1.jpg
+    - assests/s2.jpg
+    - assests/s3.jpg
+    - assests/s4.jpg
+    - assests/s5.jpg
+    - assests/s6.jpg
+    - assests/s7.jpg
+    - assests/s8.jpg
+    - assests/s9.jpg
+    - assests/s10.jpg
+    - assests/s11.jpg
+    - assests/s12.jpg
+    - assests/s13.jpg
+    - assests/s14.jpg
+    - assests/t1.jpg
+    - assests/t2.jpg
+    - assests/t3.jpg
+    - assests/t4.jpg
+    - assests/t5.jpg
+    - assests/t6.jpg
+    - assests/t7.jpg
+    - assests/t8.jpg
+    - assests/t9.jpg
+    - assests/t10.jpg
+    - assests/t11.jpg
+    - assests/t12.jpg
+    - assests/t13.jpg
+    - assests/w1.jpg
+    - assests/w2.jpg
+    - assests/w3.jpg
+    - assests/w4.jpg
+    - assests/w5.jpg
+    - assests/w6.jpeg
+    - assests/w7.jpg
+    - assests/w8.jpg
+    - assests/w9.jpg
+    - assests/b1.jpg
+    - assests/b2.jpg
+    - assests/b3.jpg
+    - assests/b4.jpg
+    - assests/b5.jpg
+    - assests/b6.jpg
+    - assests/b7.jpg
+    - assests/b8.jpg
+    - assests/b9.jpg
+    - assests/c1.jpg
+    - assests/c2.jpg
+    - assests/c3.jpg
+    - assests/c4.jpg
+    - assests/c5.jpg
+    - assests/c6.jpg
+    - assests/c7.jpg
+    - assests/c8.jpg
+    - assests/c9.jpg
+    - assests/b11.jpg
+    - assests/w10.jpg
+    - assests/w11.jpg
+    - assests/w6.jpg
+    - assests/c10.jpg
+    - assests/t2.webp
+    - assests/t3.webp
+    - assests/t4.webp
+    - assests/t5.webp
+    - assests/t6.webp
+    - assests/t7.webp
+    - assests/t10.webp
+    - assests/t9.webp
+    - assests/qrcode.png
+    - assests/googleplay.png
+    - assests/appstore.png
+
+
+  # An image asset can refer to one or more resolution-specific "variants", see
+  # https://flutter.dev/assets-and-images/#resolution-aware.
+
+  # For details regarding adding assets from package dependencies, see
+  # https://flutter.dev/assets-and-images/#from-packages
+
+  # To add custom fonts to your application, add a fonts section here,
+  # in this "flutter" section. Each entry in this list should have a
+  # "family" key with the font family name, and a "fonts" key with a
+  # list giving the asset and other descriptors for the font. For
+  # example:
+  # fonts:
+  #   - family: Schyler
+  #     fonts:
+  #       - asset: fonts/Schyler-Regular.ttf
+  #       - asset: fonts/Schyler-Italic.ttf
+  #         style: italic
+  #   - family: Trajan Pro
+  #     fonts:
+  #       - asset: fonts/TrajanPro.ttf
+  #       - asset: fonts/TrajanPro_Bold.ttf
+  #         weight: 700
+  #
+  # For details regarding fonts from package dependencies,
+  # see https://flutter.dev/custom-fonts/#from-packages
